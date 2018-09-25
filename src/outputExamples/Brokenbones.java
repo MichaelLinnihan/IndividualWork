@@ -10,6 +10,7 @@ public class Brokenbones {
 	//your program starts here
 	int numBones = input.nextInt();
 	System.out.println("you have broken " + numBones + " bones");
+	input.close();
 	}
 
 }
