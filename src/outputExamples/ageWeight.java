@@ -7,10 +7,10 @@ public class ageWeight {
 	System.out.println("what is your weight");
 	Scanner input = new Scanner(System.in);
 	//your program starts here
-	int weight = input.nextInt();
+	double allVar = input.nextInt();
 	System.out.println("you weight " + weight);
 	System.out.println("what is your height");
-	weight = input.nextInt();
+	allVar = input.nextInt();
 	System.out.println("you height is " + weight);
 	input.close();
 	}
