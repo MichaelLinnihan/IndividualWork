@@ -8,6 +8,7 @@ public class Monkeys {
 	//your program starts here
 	int height = input.nextInt();
 	System.out.println("the height of an adult monkey is " + height);
+
 	}
 
 

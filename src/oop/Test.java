@@ -19,6 +19,12 @@ public class Test {
 		Friend kyle = new Friend();
 		billy.sayMessage();
 		kyle.sayMessage();
+		
+		//numbers parameters
+		Numbers qwe = new Numbers();
+		qwe.sayNumber(8);
+		qwe.plusTwo(5);
+		qwe.sumOf(2, 3);
 }
 
 }
