@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test {
 	public static void main(String[] args) {
-		/*
+	
 		// activity 1
 		Greeter bob = new Greeter();
 		bob.sayHello();
@@ -31,7 +31,7 @@ public class Test {
 		qwe.squareOf(2);
 		qwe.areaOf(4, 2);
 		qwe.roundUp(6.6);
-		*/
+		
 
 		// sandbox one 
 		House rew = new House();
@@ -50,6 +50,18 @@ public class Test {
 		rew.two(volume, rate);
 		rew.three(volume, rate);
 		
+		Greeter tre = new Greeter();
+		tre.setAge(4);
+		//employee object
+		Employee bobby = new Employee();
+		bobby.setWage(4);
+		bobby.getWage();
+		bobby.setLevel(1);
+		bobby.getLevel();
+	
+		
+		
+		 
 		
 		
 		
