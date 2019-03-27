@@ -1,5 +1,7 @@
 package oop;
 
+import Arrays.Circle;
+
 public class TestCircle {
 	public static void main(String[] args)  {
 			Circle bob = new Circle();
